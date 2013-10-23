@@ -1,0 +1,46 @@
+Kontrollspørsmål
+Spørsmålene besvares i egen tekstfil (“ren” tekst, ASCII) med navn readme.txt
+0) Les introduksjon til JavaScript på http://w3schools.com/js/js_intro.asp og svar på følgende
+spørsmål, ­ hva kan JavaScript brukes til?
+
+Dynamisk endring av html innehold
+
+
+1) Les minst de to gitte linkene og forklar med dine egne ord forskjell på CSS id og class
+elementer
+http://www.tizag.com/cssT/cssid.php
+http://css­tricks.com/the­difference­between­id­and­class/
+
+Class brukes til å endre flere koder som er innenfor class
+
+Id, er unik og spesifiker kun 1 kode. for eksempel du kan gi en <p> id og kun den vil bli endres istedenfor alle <p> innholde
+
+
+2) Vurder og sammenlign brukbarhet til versjoner i deloppgave 0 og deloppgave 1 av designet
+for presentasjon av en liste (ta utgangspunkt at listen er mye lengre enn vist i skjermbildene,
+over 100 elementer).
+
+Deloppgave 0 er bedre for en stor liste mens deloppgave 1 passer seg bedre for små.
+
+
+3) Med hvilken HTML teknikk og designløsning  løser Wikipedia
+(http://en.wikipedia.org/wiki/List_of_programming_languages) problemstilling med en lang liste
+av programmeringsspråk?
+
+Alfabetisk og under hverandre
+
+4) Ved å søke på WWW finn ut selv og forklar kort hva som er hovedforskjeller mellom et
+<div> og et <span> element (tagg) i HTML.
+
+div er et blokk element og brukes får å endre alt som er inne i det.
+
+Span er et inline element og brukes for å endre et ord eller setning.
+
+
+
+5) Hvike brukbarhetsproblemer er det med den siste versjonen av implementeringen i
+deloppgaven 2? Nevn gjerne hvordan man kunne løse problemene. (Tips: overlapp mellom
+forskjellige grafiske elementer og tilfelle hvor man ønsker å selektere det første navnet på
+programmeringsspårket i listen)
+
+info som dukker opp når du har valgt, eller som sier hva du kan gjøre
